@@ -28,7 +28,7 @@ git init
 git add .
 git commit -m "Create Cyan's Snow House landing page"
 git branch -M main
-git remote add origin https://github.com/liliumnauratumn/cyans-snow-house-site.git
+git remote add origin https://github.com/liliumauratumn/cyans-snow-house-site.git
 git push -u origin main
 ```
 
